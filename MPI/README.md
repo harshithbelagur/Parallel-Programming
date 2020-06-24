@@ -1,1 +1,1 @@
-MPI in C
+MPI programs
